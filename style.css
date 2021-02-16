@@ -1,0 +1,23 @@
+body {
+    background-color: #E5F4F9;
+}
+h1,h2,h3 {
+    font-family: Courgette;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+.quote {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 50px;
+}
+a {
+    color: darkorchid;
+}
+a:hover { 
+    color: green;
+}
+.highlighted-text {
+    color: darkorchid;
+    font-weight: bold;
+}
